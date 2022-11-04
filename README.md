@@ -1,0 +1,5 @@
+# projet-Agence-Django![1](https://user-images.githubusercontent.com/58651684/199864905-9bcccbf7-d3bf-42be-bb58-e888b6c6b072.PNG)
+![2](https://user-images.githubusercontent.com/58651684/199864909-ec6c900c-3a68-427d-85f5-e05080ca81f0.PNG)
+![3](https://user-images.githubusercontent.com/58651684/199864914-131de599-96b7-42cb-8489-18233b74fad6.PNG)
+![4](https://user-images.githubusercontent.com/58651684/199864915-ae5a3eff-e045-437e-ad96-caf4199d14b6.PNG)
+![Uploading 5.PNG…]()
